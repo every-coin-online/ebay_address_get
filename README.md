@@ -16,7 +16,7 @@ Printing to PDF didn't work out and I got frustrated and ran out of time.
 Perhaps someone can work out that issue for me as well as fetching etsy orders
 
 [EBAY DEVELOPER PROGRAM](https://developer.ebay.com/): you will need to subscribe to it and in the labyrinth of their poorly-ordered
-documentation, you will find the keys that are displayed in the yaml file attached to this project.
+documentation, you will find the keys mock-ups of which are displayed in the yaml file attached to this project.
 I believe that I stumbled onto a yaml generator in there somewhere, but I don't remember where. Good luck.
 
 Requirements:
