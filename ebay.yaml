@@ -1,0 +1,30 @@
+#u: rey_ayanami1599@hotmail.com
+#p: Mozart25th@!
+
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: ReiAyan-evaveaeva-XXX-4gfrjhdl-1j5jhdsj6
+    certid: XXX-hbjl5433kk-1m67-30jj-011k-0001
+    devid: 09jkdsjjj-9b1m-0g00-0shl-1jfibdsbi12
+    token: fdsiap;fbdiusbfsaubfdisaf;llllllllllllllllllllllllllllllllllllllygtdw8o7q76eowq9ewq8oe86wa86PAS9atS7AgXLZbIJX;USAOFDUEPR84WQ90JFD;/SAJD?NSAkdxl/saHdihsavwDVWSAD6YUVYAUKJFDLS.KFLDSIF/LUHDS/LFNDLKJBVCJDVZCJH,DZSvKJHC.ShgLICys8LDC6YS;OAHDOSHDCKJShbcKJSHBZkjcBZSKJCbzslbCDZS&CGDZ6CVDZ6CDScVSvCVS*vC8VSC8VSz8CsXS()90DXsdPsapd;Lsadslkhcsd**'HSAIFDLEWA'J9P;FREAFR;L/JEFRPOI'jesanfujd;uyJSLKAbcs:OILBLYHCXN cgLKS>vckLScxSAc8ypsuz;cHDZyvcujdzbvcb;oidzscZSOICLciZSGchVZSCpOIUHZSKJBCXZVCLOIXZHCbZSICP*YIHCgxsZCisOZC9udsac79ueFRIEWP[S;OIXbcSV:LZXPU"VCOIGvdwSACfp8ydsoiuhbfad8s0jf;dhsJlf;dhijfsabijbdsl:OICPJ"SjNJBIJCSHBSDAYGSA
+    *YUUHVGVVVD*YpsufeSA98F9UE'WHA.DHSLIAHCLISzhlicHXSLKZ.cHNXZSC
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: ReiAyan-evaveaeva-7548392HLDCSKJ-jkndsafnd
+    certid: YYY-nbfdjisla897r-jnko-4j60-aht6-bh22
+    devid: 7382919-nfjdklsnj-nckjds-167d
+    token: nvofdsp;ars8932newlkDS/LKDS(sn:xslknXNxxmnmxMlkmncz
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: ReiAyan-evaveaeva-ZZZ-NVFDSOA;-vbjfdkslbv
+    version: 1.0.0
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: ReiAyan-evaveaeva-XXX-4gfrjhdl-1j5jhdsj6
+    version: 671
