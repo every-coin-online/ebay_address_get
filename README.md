@@ -13,10 +13,10 @@ set them to [3 of 9 font](https://www.barcodesinc.com/free-barcode-font/) and pr
 The output looks like [this](https://github.com/every-coin-online/ebay_address_get/blob/main/label%20output%20before%20barcoding.png) and the end result that goes to printer, like [this](https://github.com/every-coin-online/ebay_address_get/blob/main/label%20output%20after%20barcoding.png).
 The reason I do this, is because it saves time for me at the counter and the postal worker having to type in the address and recipient's phone and sometimes get it wrong.
 Printing to PDF didn't work out and I got frustrated and ran out of time.
-Perhaps someone can work out that issue for me as well as fetching etsy orders
+Perhaps someone can work out that issue for me as well as fetching etsy orders.
 
 [EBAY DEVELOPER PROGRAM](https://developer.ebay.com/): you will need to subscribe to it and in the labyrinth of their poorly-ordered
-documentation, you will find the keys mock-ups of which are displayed in the yaml file attached to this project.
+documentation, you will find the keys, mock-ups of which are displayed in the yaml file attached to this project.
 I believe that I stumbled onto a yaml generator in there somewhere, but I don't remember where. Good luck.
 
 Requirements:
